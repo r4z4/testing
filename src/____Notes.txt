@@ -1,0 +1,9 @@
+- Not sure if way I am using class name and/or IDs for HTML elements
+is the best.  Doing document.querySelector() to get elements by class,
+but thinking using document.getElementById() is better.  For CSS of buttons
+just styled it all under button {} with no class, which works for now.
+
+- Can probably abstract out all the "document.querySelector" to a variable
+or constant to use (use $ to be like jQuery?)
+
+- 

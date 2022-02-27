@@ -1,0 +1,13 @@
+.data-display	{
+	height: 400px;
+	width: 400px;
+	margin: auto;
+	border: 2px solid red;
+}
+
+.add-stu-form	{
+	height: 400px;
+	width: 400px;
+	margin: auto;
+	border: 2px solid green;
+}
